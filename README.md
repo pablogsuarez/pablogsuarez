@@ -23,7 +23,7 @@
 ## Currently Learning
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white) 
 
-
+## Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pablogsuarez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pablogsuarez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pablogsuarez)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablogsuarez)](https://github.com/anuraghazra/github-readme-stats)
