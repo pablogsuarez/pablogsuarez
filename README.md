@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pablo Suárez.
 #### I'm Frontend Developer 🖥, Web Designer 🎨 and Coffee Lover ☕
-![I'm Frontend Developer 🖥, Web Designer 🎨 and Coffee Lover ☕](https://live.staticflickr.com/65535/51154439864_c67d6bd3c7_c.jpg)
+![I'm Frontend Developer 🖥, Web Designer 🎨 and Coffee Lover ☕](//live.staticflickr.com/65535/51662993363_7e4b7b86a1_h.jpg)
 
 **[ES]** Soy de Argentina y estoy estudiando la Tecnicatura en Desarrollo Web en la *Universidad Nacional de La Matanza.*
 
